@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df99dfc9df93dfcbdfcfdfcfdfccdf9fdf9cdf9cdfcbdf9fdfc8dfcedfc8df9fdf92df98dfc9df92df9adfc9df9edf9cdfcbdf99dfc9dfcfdf9bdf92df98df92df99dfc9df9fdfcfdf9edfc9dfc8dfc9</token>
+          <option name="name" value="SonarCloud tryout" />
+          <organizationKey>legap</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
